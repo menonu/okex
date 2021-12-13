@@ -1,0 +1,2 @@
+^.*Interest Accrued.*\n$
+^(?!.*Interest Accrued).*\n$
